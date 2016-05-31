@@ -1,5 +1,5 @@
 # legendary-chainsaw
 Just another legendary chainsaw.
 
-Hello chainsaw!
-I had to renew my chainsaw with a better one.
+Hi there chainsaw owner.
+I had to renew mine with a better one.
